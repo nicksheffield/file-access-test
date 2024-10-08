@@ -16,3 +16,7 @@ body {
 	margin: 1rem;
 	font-family: system-ui, sans-serif;
 }
+
+iframe {
+	border: 1px solid red;
+}
